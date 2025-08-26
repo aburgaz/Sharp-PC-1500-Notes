@@ -1,0 +1,5 @@
+## **Resumen**
+
+El ordenador de bolsillo SHARP PC-1500 es un dispositivo icónico de la decada de los 80. Se convirtió en un dispositivo muy popular gracias a su tamaño compacto y a que fue una de las primeras calculadoras científicas programables que se podía usar como computadora personal portátil. Posee un teclado, una pantalla LCD de una única línea y premite programar en BASIC.
+El objetivo de este trabajo es el desarrollo de un compilador y un emulador a medida para este ordenador que permita ejecutar programas y facilitar la comprensión de la arquitectura original. La intención es reproducir con exactitud el funcionamiento interno del hardware original y ejecutar fielmente el software generado.
+El resultado final es un conjunto funcional de utilidades que permiten compilar y ejecutar programas destinados al SHARP PC-1500 desde sistemas actuales. Este trabajo contribuye tanto a la preservación de un ordenador histórico como a la exploración práctica de conceptos fundamentales de procesadores del lenguaje y arquitectura de computadores.

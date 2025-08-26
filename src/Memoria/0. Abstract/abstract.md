@@ -1,0 +1,5 @@
+## **Abstract**
+
+The SHAPT PC-1500 pocket computer is a one of the most relevant devices from the 80's. It became very popular thnaks to it's small size and for being one of the first programable scientific calculators that could be used as a personal portable computer. It offers an integrated keyboard, a single-line LCD creen and the capability to code and execute programs in BASIC. 
+This project aims to develope a compiler and emulator specific for the PC-1500 computer tha allows user to run programs and facilitate the comprehension of the oroginal architecture. The main objective is to reproduce accurately the internal hardware features and execute the generated software.
+The final outcome is a functional application that enables compile and run programs in modern systems as if it were the SHARP PC-1500.This work contributes not only to the preservation of a relic machine, but also to the practical investigation of concepts regarding lenguaje processors and computer architecture.
